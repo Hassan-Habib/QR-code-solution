@@ -1,0 +1,6 @@
+body{margin: 0 ; font-size: 70px; font-family: Outfit; font-weight: 700}
+.attribution{width: 2560px;height:1440px ;background-color: lightsteelblue; margin:0 auto; padding: 5%}
+.round{width: 95%; text-align: center; border-radius: 10px; margin: 15px 4px}
+.white{background-color: white; width: 600px; margin: 0 auto; height: 1000px; border-radius: 10px; }
+h2{font-size: 40px; padding:0 5%}
+h3{font-size: 30px; padding: 0 8%;color: lightgray}
